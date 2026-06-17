@@ -1,0 +1,95 @@
+{
+  "dataset": "piqa",
+  "samples": [
+    {
+      "prompt": "How do you separate the yolk from the egg white? Choice 1: Crack the egg and split the shell in quarters.  Gently pass the yolk back and forth between the shell quarters until the egg white is removed. Choice 2: Crack the egg and split the shell in half.  Gently pass the yolk back and forth between the shell halves until the egg white is removed.",
+      "references": [
+        "Crack the egg and split the shell in half.  Gently pass the yolk back and forth between the shell halves until the egg white is removed."
+      ]
+    },
+    {
+      "prompt": "how do you serenade someone? Choice 1: sing to them only Choice 2: sing to a group of people.",
+      "references": [
+        "sing to them only"
+      ]
+    },
+    {
+      "prompt": "Upholster a piece of padded wooden furniture. Choice 1: Sew the fabric to the wooden piece on one edge, then stretch the fabric taut as you work around the piece, sewing as you go. Choice 2: Staple the fabric to the wooden piece on one edge, then stretch the fabric taut as you work around the piece, stapling as you go.",
+      "references": [
+        "Staple the fabric to the wooden piece on one edge, then stretch the fabric taut as you work around the piece, stapling as you go."
+      ]
+    },
+    {
+      "prompt": "How to Build a Generic Air Cannon. Choice 1: Gather a 2\" Pressure-rated PVC pipe, 4\" end cap, 3 reducers, Ball valve or solenoid valve, Bushings, and pipe nipples, also gather your tools, Fit Pieces Together of your pipes, make the pressue chamber, Attaching the Valve and Barrel, test and trouble shoot the cannon. Choice 2: Gather a 3\" Pressure-rated PVC pipe, 3\" end cap, 2 reducers, Ball valve or solenoid valve, Bushings, and pipe nipples, also gather your tools, Fit Pieces Together of your pipes, make the pressue chamber, Attaching the Valve and Barrel, test and trouble shoot the cannon.",
+      "references": [
+        "Gather a 3\" Pressure-rated PVC pipe, 3\" end cap, 2 reducers, Ball valve or solenoid valve, Bushings, and pipe nipples, also gather your tools, Fit Pieces Together of your pipes, make the pressue chamber, Attaching the Valve and Barrel, test and trouble shoot the cannon."
+      ]
+    },
+    {
+      "prompt": "To get a good look at the hidden space above a room. Choice 1: When you need to lay wires or a light fixture above a room, stick your hand through the hole and shine a flashlight. Choice 2: When you need to lay wires or a light fixture above a room, stick your hand through the hole and take a photograph with your phone.",
+      "references": [
+        "When you need to lay wires or a light fixture above a room, stick your hand through the hole and take a photograph with your phone."
+      ]
+    },
+    {
+      "prompt": "Install cabinet pulls. Choice 1: Glue old jewelry under cabinet knob. Choice 2: Glue old jewelry on top of cabinet knob.",
+      "references": [
+        "Glue old jewelry on top of cabinet knob."
+      ]
+    },
+    {
+      "prompt": "table top Choice 1: can be broken by a gorilla Choice 2: can be broken by a finger",
+      "references": [
+        "can be broken by a gorilla"
+      ]
+    },
+    {
+      "prompt": "How do you add olive oil to a small saucepan? Choice 1: Take a bottle of olive oil and leave it closed. Bring it to the saucepan, and hold it in such a way that the oil pours out. Make sure the oil goes into the pan. Choice 2: Take a bottle of olive oil and open it. Bring it to the saucepan, and hold it in such a way that the oil pours out. Make sure the oil goes into the pan.",
+      "references": [
+        "Take a bottle of olive oil and open it. Bring it to the saucepan, and hold it in such a way that the oil pours out. Make sure the oil goes into the pan."
+      ]
+    },
+    {
+      "prompt": "How do you close off the balloon at the opening to make sure the beads do not fall out in a stress ball? Choice 1: Cut the opening off the balloon to make sure the beads do not fall out. Choice 2: Tie off the opening off the balloon to make sure the beads do not fall out.",
+      "references": [
+        "Tie off the opening off the balloon to make sure the beads do not fall out."
+      ]
+    },
+    {
+      "prompt": "To learn how to ride a bike. Choice 1: Just get on the bike and start riding to learn how to do it consistently. Choice 2: Start with training wheels to help will balance while moving then gradually take them off.",
+      "references": [
+        "Start with training wheels to help will balance while moving then gradually take them off."
+      ]
+    },
+    {
+      "prompt": "How do I cool the  cheese roll ? Choice 1: Put the cheese roll in a refrigerator for a few hours. Choice 2: Put the cheese roll in the oven for a few hours.",
+      "references": [
+        "Put the cheese roll in a refrigerator for a few hours."
+      ]
+    },
+    {
+      "prompt": "To make a gnome's body filled with lavender flowers. Choice 1: Cut a fabric to a circle 6 inches in diameter. Put the rose flowers in a couple of tea bags and place on the fabric. Bunch up the fabric and the rose into a ball shape. Secure the opened top with a rubber band. Choice 2: Cut a fabric to a circle 6 inches in diameter. Put the lavender flowers in a couple of tea bags and place on the fabric. Bunch up the fabric and the lavender into a ball shape. Secure the opened top with a rubber band.",
+      "references": [
+        "Cut a fabric to a circle 6 inches in diameter. Put the lavender flowers in a couple of tea bags and place on the fabric. Bunch up the fabric and the lavender into a ball shape. Secure the opened top with a rubber band."
+      ]
+    },
+    {
+      "prompt": "How to flat a tortilla without a tortilla press? Choice 1: Use a bowl,  make sure it is flat side up and press down firmly until the tortilla flattens out Choice 2: Use a plate, make sure it is flat side down and press down firmly until the tortilla flattens out",
+      "references": [
+        "Use a plate, make sure it is flat side down and press down firmly until the tortilla flattens out"
+      ]
+    },
+    {
+      "prompt": "How to peel an onion? Choice 1: Using a small sharp knife, cut the top and the bottom off the onion. Remove half of the remaining skin from the    onion. Choice 2: Using a small sharp knife, cut the top and the bottom off the onion. Remove the remaining skin from the    onion.",
+      "references": [
+        "Using a small sharp knife, cut the top and the bottom off the onion. Remove the remaining skin from the    onion."
+      ]
+    },
+    {
+      "prompt": "how do you put underwear on? Choice 1: pull them up over your legs. Choice 2: pull them down over your chest.",
+      "references": [
+        "pull them up over your legs."
+      ]
+    }
+  ]
+}

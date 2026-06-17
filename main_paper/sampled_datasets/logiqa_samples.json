@@ -1,0 +1,95 @@
+{
+  "dataset": "logiqa",
+  "samples": [
+    {
+      "prompt": "In 2010, the overall price level of a province only increased by 2.4%, and the increase was relatively mild, with the increase rate even falling by 0.6 percentage points from 2009. However, ordinary people feel that the price increase is relatively high, and some statistics also show that the people's feelings are well-founded. A statistical report for a month in 2010 showed that the price of poultry and egg commodities rose by 12.3% in that month, and some anti-seasonal vegetables even rose by more than 20%. Which of the following, if true, best explains the seemingly contradictory phenomenon? Choice 1: There are deviations in people's understanding of data, and statistics from different sources will produce different results. Choice 2: Various factors affecting the change in the general level of consumer prices are intertwined. Choice 3: Although the increase in some daily consumer goods is small, residents feel very obvious. Choice 4: The prices of industrial consumer goods, which account for a considerable weight in the price index system, continue to fall.",
+      "references": [
+        "The prices of industrial consumer goods, which account for a considerable weight in the price index system, continue to fall."
+      ]
+    },
+    {
+      "prompt": "There was a student who did not participate in a party event in Class Three. One of He Jie, Pony, Dandan, and Xiaozhen did not participate, and the other three participated. When the teacher asked, they made the following answers. He Jie? The pony did not come. Pony? Not only did I participate, but I also performed the show. Dan Dan? I came for a while, but I didn't leave until the end of the party. Xiao Zhen? If Dan Dan is here, it's that I didn't come. If only one of them lied, which of the following is true? Choice 1: He Jie did not participate. Choice 2: Pony did not participate. Choice 3: Dan Dan did not participate. Choice 4: Xiaozhen did not participate.",
+      "references": [
+        "Xiaozhen did not participate."
+      ]
+    },
+    {
+      "prompt": "A computer installed with signature recognition software-this software is limited to those who sign in the document to enter the computer-not only by analyzing the shape of the signature, but also by analyzing features such as pen pressure and signature speed The signature of the person. Even the smartest counterfeiters cannot copy all the features analyzed by the program. Which of the following conclusions can be logically derived from the above? Choice 1: The time it takes to record and analyze a signature makes the daily use of such software unrealistic. Choice 2: Computers that install this software will soon be equipped by most banks. Choice 3: No one can enter the computer where this software is installed just by forging signatures. Choice 4: The signature recognition software has spent many years developing and improving.",
+      "references": [
+        "No one can enter the computer where this software is installed just by forging signatures."
+      ]
+    },
+    {
+      "prompt": "Over the past few decades, the proportion of female students enrolled in higher education programs has been on the rise. This can be partially demonstrated by the fact that in 1959, only 11% of women between the ages of 20 and 21 were recruited Entering university, and in 1981, 30% of women between the ages of 20 and 21 were recruited into university. To evaluate the above argument, which of the following characteristics in 1959 and 1981 is most useful? Choice 1: Proportion of women between the ages of 20 and 21 who are not enrolled in universities. Choice 2: Proportion of women graduating from college between the ages of 20 and 21. Choice 3: Proportion of women entering high-paying positions after receiving college education. Choice 4: Proportion of men graduating from high school.",
+      "references": [
+        "Proportion of men graduating from high school."
+      ]
+    },
+    {
+      "prompt": "To have first-class national strength, China must have first-class education. Only with first-class national strength can China make its due international contribution. The following items are in line with the meaning of the title, except. Choice 1: It is difficult for China to make its due international contribution unless it has a first-class education. Choice 2: As long as China has a first-class education, it can make its due international contribution. Choice 3: If China has first-class national strength, there will be no first-class education. Choice 4: China faces a choice? either abandon its due international obligations or create a first-class education.",
+      "references": [
+        "China faces a choice? either abandon its due international obligations or create a first-class education."
+      ]
+    },
+    {
+      "prompt": "A city ’s consumer rights protection regulations clearly stipulate that consumers can “return the goods without reason within 7 days” for the goods they purchase, but this rule has not been successfully implemented, and many consumers have “no reason” within 7 days When returning goods, they often encounter obstacles from the merchants. They refuse to return the goods on the grounds that the goods have been processed for special prices and the goods have been opened or used. Which of the following is true if it is the most doubtful reason why businesses obstruct? Choice 1: After unpacking and inspecting the goods, if the product specifications, quality and other problems come from the consumers themselves, they should bear the responsibility for this. Choice 2: There is no guarantee for the quality of the products that are dealt with at a special price. Choice 3: If you do not open the goods for inspection, you cannot know whether there are quality problems in the goods. Choice 4: Once the product is opened or used, even if there is no problem, consumers can choose to return the product.",
+      "references": [
+        "Once the product is opened or used, even if there is no problem, consumers can choose to return the product."
+      ]
+    },
+    {
+      "prompt": "In spite of the outside world ’s talks about loosening monetary policy, the central bank of a country passed a clear message at the meeting of the governors of the branches that it held a few days ago. It will continue to implement a sound monetary policy in the second half of the year and maintain the necessary policy strength. Some scholars believe that this shows that the decision-makers in the country still regard price stability as their top priority, while controlling the decline in economic growth to an affordable range. Which of the following can support the views of the above scholars? Choice 1: If the necessary policy strength is maintained, monetary policy cannot be relaxed. Choice 2: Only by implementing a sound monetary policy can prices be stabilized. Choice 3: Once the prudent monetary policy is implemented, the economic growth rate will decline. Choice 4: Only by stabilizing prices can the decline in economic growth be controlled within a tolerable range.",
+      "references": [
+        "Only by implementing a sound monetary policy can prices be stabilized."
+      ]
+    },
+    {
+      "prompt": "Most antidepressant drugs can cause weight gain. Although dieting helps reduce weight gain when taking these anti-depressants, it is impossible to avoid this phenomenon completely. Which of the following information best supports the following conclusion? Choice 1: Doctors should not prescribe anti-depressive medicine for patients with overweight. Choice 2: At least some people who take antidepressant drugs will be overweight. Choice 3: At least some people who take antidepressant drugs will gain weight. Choice 4: At least some patients taking antidepressant drugs should maintain their weight by dieting.",
+      "references": [
+        "At least some people who take antidepressant drugs will gain weight."
+      ]
+    },
+    {
+      "prompt": "There are 6 scenic spots in a famous scenic spot, such as \"Miaobishenghua\", \"Monkey Watching the Sea\", \"Xianren Sun Boots\", \"Beauty Dressing\", \"Yangguan Sandie\" and \"Zen Xinxiangtian\" For the convenience of tourists, the scenic spot tips are as follows? (1) Only the \"Monkey Watching the Sea\" can swim \"Miaobishenghua\"; (2) Only the \"Yangguan Sandie\" can swim \"Xianren Sun Boots\"; (3 ) If you visit \"Beauty Dressing\", you must first visit \"Miaobishenghua\"; (4) \"Zen Xin Xiangtian\" should be the fourth tour before you can visit \"Xianren Sun Boots\". According to the above tips, Mr. Zhang successfully visited the above 6 attractions. Based on the above information, regarding the order of Mr. Zhang's tour, which of the following cannot be true? Choice 1: The first tour \"Monkey Watching the Sea\". Choice 2: The second tour \"Yangguan Sandie\". Choice 3: The third tour \"Beauty Dressing\". Choice 4: The fifth tour \"Miaobishenghua\".",
+      "references": [
+        "The fifth tour \"Miaobishenghua\"."
+      ]
+    },
+    {
+      "prompt": "If he has the courage to take responsibility, then he will face the media directly instead of escaping; if he has no responsibility, then he will definitely hire a lawyer to defend his dignity. But in fact, not only did he not hire a lawyer, but even the people who fled are now gone. Based on the above statement, which of the following conclusions can be drawn? Choice 1: Even if he is not responsible, he should not choose to escape. Choice 2: Although he chose to escape, he may not be responsible. Choice 3: If he is responsible, then he should have the courage to take responsibility. Choice 4: Not only is he responsible, but he has no courage to take responsibility.",
+      "references": [
+        "Not only is he responsible, but he has no courage to take responsibility."
+      ]
+    },
+    {
+      "prompt": "A recent study found that the color of seawater can change the direction of a hurricane, that is, if the seawater changes color, the path of the hurricane will also change direction. This also means that scientists can determine which areas will be hit by hurricanes and which areas will survive from the \"face\" of seawater. It is worth noting that global warming may have discolored seawater. Which of the following is most likely to be the premise on which scientists make judgments? Choice 1: An increase in seawater temperature will cause an increase in the number of hurricanes generated. Choice 2: Seawater temperature changes will cause seawater to change color. Choice 3: There is a relatively certain relationship between the color of seawater and the path of hurricane movement. Choice 4: Global warming is one of the important causes of frequent hurricanes in recent years.",
+      "references": [
+        "There is a relatively certain relationship between the color of seawater and the path of hurricane movement."
+      ]
+    },
+    {
+      "prompt": "If Xiao Zhang passes the exam and the Daejeon exam fails, Xiao Na must fail the exam. If the above proposition is true, then with any premises, it can be concluded that the Daejeon passed the exam. Choice 1: Xiao Zhang passed the test and Daejeon failed. Choice 2: Xiao Zhang and Xiao Na failed the exam. Choice 3: Someone did not take the exam. Choice 4: Xiao Zhang and Xiao Na both passed the exam.",
+      "references": [
+        "Xiao Zhang and Xiao Na both passed the exam."
+      ]
+    },
+    {
+      "prompt": "In a cognitive ability test, Liu Qiang scored 118 points, Jiang Ming scored higher than Wang Li, Zhang Hua and Liu Qiang scored more than Jiang Ming and Wang Li, Liu Qiang scored higher than Zhou Mei? 120 points in this test The above is excellent, and two of the five are not excellent. Based on the above information, which of the following five is the highest to lowest score in this test? Choice 1: Zhang Hua, Wang Li, Zhou Mei, Jiang Ming, Liu Qiang. Choice 2: Zhang Hua, Jiang Ming, Wang Li, Liu Qiang, Zhou Mei. Choice 3: Zhang Hua, Jiang Ming, Liu Qiang, Wang Li, Zhou Mei. Choice 4: Jiang Ming, Zhang Hua, Wang Li, Liu Qiang, Zhou Mei.",
+      "references": [
+        "Zhang Hua, Jiang Ming, Wang Li, Liu Qiang, Zhou Mei."
+      ]
+    },
+    {
+      "prompt": "Existing schools A and B, according to the actual investment statistics of the previous year, if only the per capita investment of undergraduate students is compared, school A is higher than 86% of school B; but if all students (undergraduates are compared Students plus graduate students), school A is 118% of school B. The per capita funding of graduate students in each school is higher than that of undergraduate students. Based on the above information, which of the following is most likely? Choice 1: Last year, there were more students in school A than school B. Choice 2: Last year, the number of graduate students in school A was less than that in school B. Choice 3: Last year, the proportion of graduate students in school A was higher than that in school B. Choice 4: Last year, the proportion of graduate students in school A was higher than that in school B, or the per capita funding of graduate students in school A was higher than that in school B.",
+      "references": [
+        "Last year, the proportion of graduate students in school A was higher than that in school B, or the per capita funding of graduate students in school A was higher than that in school B."
+      ]
+    },
+    {
+      "prompt": "No result can appear out of thin air. There is a reason behind them; anything with a reason behind can be recognized by people, and things that can be recognized by people are not necessarily irregular. According to the above statement, which of the following must be false? Choice 1: People may know everything. Choice 2: Some results may appear irregularly. Choice 3: Those things that can be recognized must be regular. Choice 4: There is a reason behind any result.",
+      "references": [
+        "Some results may appear irregularly."
+      ]
+    }
+  ]
+}

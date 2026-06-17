@@ -1,0 +1,95 @@
+{
+  "dataset": "arc",
+  "samples": [
+    {
+      "prompt": "When you bend your arm at the elbow, the bones and muscles in your arm are acting as a system. What simple machine does this system represent? Choice 1: Inclined plane Choice 2: Pulley Choice 3: Wedge Choice 4: Lever",
+      "references": [
+        "Lever"
+      ]
+    },
+    {
+      "prompt": "What is the liquid layer of Earth that lies beneath the mantle? Choice 1: inner core Choice 2: outer core Choice 3: mesosphere Choice 4: asthenosphere",
+      "references": [
+        "outer core"
+      ]
+    },
+    {
+      "prompt": "What kind of force do brakes use to stop a moving bicycle? Choice 1: gravity Choice 2: friction Choice 3: magnetic Choice 4: push",
+      "references": [
+        "friction"
+      ]
+    },
+    {
+      "prompt": "A student wants to perform an experiment to determine what temperature is best for growing tomato plants. Which is the best piece of equipment to use in this experiment to measure the independent variable? Choice 1: rain gauge Choice 2: light meter Choice 3: tape measure Choice 4: thermometer",
+      "references": [
+        "thermometer"
+      ]
+    },
+    {
+      "prompt": "The process by which information is encoded, transmitted, stored, decoded, and retrieved is called Choice 1: manufacturing technology. Choice 2: transportation technology. Choice 3: construction technology. Choice 4: communication technology.",
+      "references": [
+        "communication technology."
+      ]
+    },
+    {
+      "prompt": "Rocks and minerals are common materials found on Earth. Which property do most rocks and minerals share? Choice 1: They are pure. Choice 2: They are solid. Choice 3: They are liquid. Choice 4: They are magnetic.",
+      "references": [
+        "They are solid."
+      ]
+    },
+    {
+      "prompt": "Which of these is the BEST sign that the fall season has begun? Choice 1: Plants forming new buds Choice 2: Sun shining on flowers Choice 3: Grass being wet in the morning Choice 4: Leaves changing color on trees",
+      "references": [
+        "Leaves changing color on trees"
+      ]
+    },
+    {
+      "prompt": "Why is the light year often used to describe distances between objects in the universe? Choice 1: because of the way planets reflect light Choice 2: because of the great number of bright stars Choice 3: because of the way objects rotate and revolve Choice 4: because of the large distance between objects in space",
+      "references": [
+        "because of the large distance between objects in space"
+      ]
+    },
+    {
+      "prompt": "How are electromagnetic waves different from other waves? Choice 1: They have very short wavelengths. Choice 2: They transmit energy instead of matter. Choice 3: They can travel through a vacuum and through matter. Choice 4: They can change direction by reflection when they strike an object.",
+      "references": [
+        "They can travel through a vacuum and through matter."
+      ]
+    },
+    {
+      "prompt": "Which form of energy is produced when a guitar string vibrates? Choice 1: chemical Choice 2: light Choice 3: magnetic Choice 4: sound",
+      "references": [
+        "sound"
+      ]
+    },
+    {
+      "prompt": "Some dairy farmers want their cows to produce greater amounts of milk than average cows. Which process will help the dairy farmers develop cows with this trait? Choice 1: selective breeding Choice 2: behavioral modification Choice 3: ecological succession Choice 4: geographical isolation",
+      "references": [
+        "selective breeding"
+      ]
+    },
+    {
+      "prompt": "Which of these steps in the rock cycle occurs ONLY in the formation of metamorphic rock? Choice 1: erosion Choice 2: compaction Choice 3: cementation Choice 4: recrystallization",
+      "references": [
+        "recrystallization"
+      ]
+    },
+    {
+      "prompt": "Water cycles through three states of matter on Earth. What has the greatest effect on the state of matter of water? Choice 1: tides Choice 2: gravity Choice 3: the sun Choice 4: the moon",
+      "references": [
+        "the sun"
+      ]
+    },
+    {
+      "prompt": "An electrical component that has a continuous path for electrons to flow is called Choice 1: a closed circuit. Choice 2: an open circuit. Choice 3: a filament. Choice 4: a battery.",
+      "references": [
+        "a closed circuit."
+      ]
+    },
+    {
+      "prompt": "What is the smallest part of a gold ring that is still gold? Choice 1: an atom Choice 2: an electron Choice 3: a molecule Choice 4: a compound",
+      "references": [
+        "an atom"
+      ]
+    }
+  ]
+}
