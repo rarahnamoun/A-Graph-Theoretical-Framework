@@ -1,5 +1,4 @@
-# A Graph-Theoretical
-Framework for Analyzing the Behavior of Causal Language Models
+# A Graph-Theoretical Framework for Analyzing the Behavior of Causal Language Models
 
 This repository implements the graph-theoretical evaluation framework from [*A Graph-Theoretical
 Framework for Analyzing the Behavior of Causal Language Models*](https://aclanthology.org/2025.emnlp-main.1014/)
