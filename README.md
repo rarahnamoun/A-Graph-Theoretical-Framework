@@ -179,7 +179,10 @@ Each run writes the following into `--output_dir`:
 - `outputs_<step_or_model>.json` — the generated text and reference answers for every prompt
 - `metrics_all_steps.json` (checkpoints mode) or `metrics_all_models.json` (models mode) — combined results
 - PNG plots: one line chart per metric across steps (checkpoints mode), or one bar chart per metric across models (models mode)
+## Questions & Support
 
+If you run into any issues running the code, getting the paper results to reproduce, or have any
+other questions about this repository, feel free to email me: rahnamounrashin@gmail.com
 ## Notes
 
 - `checkpoints` mode assumes the model family exposes its training checkpoints as Hugging Face
